@@ -1,0 +1,136 @@
+export const listData = [
+	{
+		id: 1,
+		title: 'Скандинавский дом 1',
+		images: [
+			'https://images.unsplash.com/photo-1560185009-dddeb820c7b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 2,
+		bathroom: 1,
+		price: 1000000,
+		address: 'Хибинский 10, Москва',
+		latitude: 51.5074,
+		longitude: -0.1278,
+	},
+	{
+		id: 2,
+		title: 'Скандинавский дом 2',
+		images: [
+			'https://images.unsplash.com/photo-1595521624742-47e90260edab?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 3,
+		bathroom: 2,
+		price: 1500000,
+		address: 'Хибинский 10, Москва',
+		latitude: 52.4862,
+		longitude: -1.8904,
+	},
+	{
+		id: 3,
+		title: 'Скандинавский дом 3',
+		images: [
+			'https://images.unsplash.com/photo-1525113990976-399835c43838?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 1,
+		bathroom: 1,
+		price: 800000,
+		address: 'Хибинский 10, Москва',
+		latitude: 53.4808,
+		longitude: -2.2426,
+	},
+	{
+		id: 4,
+		title: 'Скандинавский дом 4',
+		images: [
+			'https://images.unsplash.com/photo-1704981524675-d795f35805d4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 2,
+		bathroom: 1,
+		price: 1000000,
+		address: 'Хибинский 10, Москва',
+		latitude: 53.8008,
+		longitude: -1.5491,
+	},
+	{
+		id: 5,
+		title: 'Скандинавский дом 5',
+		images: [
+			'https://images.unsplash.com/photo-1704307023984-813727deade9?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 3,
+		bathroom: 2,
+		price: 1500000,
+		address: 'Хибинский 10, Москва',
+		latitude: 53.4084,
+		longitude: -2.9916,
+	},
+	{
+		id: 6,
+		title: 'Скандинавский дом 6',
+		images: [
+			'https://images.unsplash.com/photo-1638190653672-2231bdf50eba?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 1,
+		bathroom: 1,
+		price: 800000,
+		address: 'Хибинский 10, Москва',
+		latitude: 54.9783,
+		longitude: -1.6174,
+	},
+	{
+		id: 7,
+		title: 'Скандинавский дом 7',
+		images: [
+			'https://images.unsplash.com/photo-1704307163247-cde12ba3ff28?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 2,
+		bathroom: 1,
+		price: 1000000,
+		address: 'Хибинский 10, Москва',
+		latitude: 53.3811,
+		longitude: -1.4701,
+	},
+	{
+		id: 8,
+		title: 'Скандинавский дом 8',
+		images: [
+			'https://images.unsplash.com/photo-1659720879283-7bb2c29370cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 3,
+		bathroom: 2,
+		price: 1500000,
+		address: 'Хибинский 10, Москва',
+		latitude: 51.4545,
+		longitude: -2.5879,
+	},
+];
+
+export const singlePostData = {
+	id: 1,
+	title: 'Скандинавский дом',
+	price: 1200000,
+	images: [
+		'https://images.pexels.com/photos/1918291/pexels-photo-1918291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+		'https://images.pexels.com/photos/1428348/pexels-photo-1428348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+		'https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+		'https://images.pexels.com/photos/2467285/pexels-photo-2467285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+	],
+	bedRooms: 2,
+	bathroom: 1,
+	size: 861,
+	latitude: 51.5074,
+	longitude: -0.1278,
+	city: 'Москва',
+	address: 'Хибинский 10',
+	school: '250м',
+	bus: '100м',
+	restaurant: '50м',
+	description:
+		'Future alike hill pull picture swim magic chain seed engineer nest outer raise bound easy poetry gain loud weigh me recognize farmer bare danger. actually put square leg vessels earth engine matter key cup indeed body film century shut place environment were stage vertical roof bottom lady function breeze darkness beside tin view local breathe carbon swam declared magnet escape has from pile apart route coffee storm someone hold space use ahead sheep jungle closely natural attached part top grain your grade trade corn salmon trouble new bend most teacher range anybody every seat fifteen eventually',
+};
+
+export const userData = {
+	id: 1,
+	name: 'John Doe',
+	img: 'https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+};

@@ -1,0 +1,15 @@
+.map {
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 100%;
+	height: 100%;
+	border-radius: 14px 14px 14px 14px;
+
+	.ymaps-2-1-79-gotoymaps__container,
+	.ymaps-2-1-79-gototaxi__text-container,
+	.ymaps-2-1-79-gototaxi__text,
+	.ymaps-2-1-79-gototaxi__pin,
+	.ymaps-2-1-79-gototech {
+		display: none !important;
+	}
+}

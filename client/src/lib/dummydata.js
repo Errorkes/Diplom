@@ -1,0 +1,136 @@
+export const listData = [
+	{
+		id: 1,
+		title: 'Скандинавский дом 1',
+		images: [
+			'https://images.unsplash.com/photo-1560185009-dddeb820c7b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 2,
+		bathroom: 1,
+		price: 1000000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.866394,
+		longitude: 37.707683,
+	},
+	{
+		id: 2,
+		title: 'Скандинавский дом 2',
+		images: [
+			'https://images.unsplash.com/photo-1595521624742-47e90260edab?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 3,
+		bathroom: 2,
+		price: 1500000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.757315,
+		longitude: 37.540109,
+	},
+	{
+		id: 3,
+		title: 'Скандинавский дом 3',
+		images: [
+			'https://images.unsplash.com/photo-1525113990976-399835c43838?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 1,
+		bathroom: 1,
+		price: 800000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.6602,
+		longitude: 37.567575,
+	},
+	{
+		id: 4,
+		title: 'Скандинавский дом 4',
+		images: [
+			'https://images.unsplash.com/photo-1704981524675-d795f35805d4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 2,
+		bathroom: 1,
+		price: 1000000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.75596,
+		longitude: 37.625081,
+	},
+	{
+		id: 5,
+		title: 'Скандинавский дом 5',
+		images: [
+			'https://images.unsplash.com/photo-1704307023984-813727deade9?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 3,
+		bathroom: 2,
+		price: 1500000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.766945,
+		longitude: 37.674863,
+	},
+	{
+		id: 6,
+		title: 'Скандинавский дом 6',
+		images: [
+			'https://images.unsplash.com/photo-1638190653672-2231bdf50eba?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 1,
+		bathroom: 1,
+		price: 800000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.725988,
+		longitude: 37.667224,
+	},
+	{
+		id: 7,
+		title: 'Скандинавский дом 7',
+		images: [
+			'https://images.unsplash.com/photo-1704307163247-cde12ba3ff28?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 2,
+		bathroom: 1,
+		price: 1000000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.813998,
+		longitude: 37.619245,
+	},
+	{
+		id: 8,
+		title: 'Скандинавский дом 8',
+		images: [
+			'https://images.unsplash.com/photo-1659720879283-7bb2c29370cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		],
+		bedroom: 3,
+		bathroom: 2,
+		price: 1500000,
+		address: 'Хибинский 10, Москва',
+		latitude: 55.811445,
+		longitude: 37.72299,
+	},
+];
+
+export const singlePostData = {
+	id: 1,
+	title: 'Скандинавский дом',
+	price: 1200000,
+	images: [
+		'https://images.unsplash.com/photo-1564078516393-cf04bd966897?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		'https://images.unsplash.com/photo-1616047006789-b7af5afb8c20?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		'https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		'https://images.unsplash.com/photo-1585128792020-803d29415281?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+	],
+	bedRooms: 2,
+	bathroom: 1,
+	size: 861,
+	latitude: 55.866394,
+	longitude: 37.707683,
+	city: 'Москва',
+	address: 'Хибинский 10',
+	school: '250м',
+	bus: '100м',
+	restaurant: '50м',
+	description:
+		'Future alike hill pull picture swim magic chain seed engineer nest outer raise bound easy poetry gain loud weigh me recognize farmer bare danger. actually put square leg vessels earth engine matter key cup indeed body film century shut place environment were stage vertical roof bottom lady function breeze darkness beside tin view local breathe carbon swam declared magnet escape has from pile apart route coffee storm someone hold space use ahead sheep jungle closely natural attached part top grain your grade trade corn salmon trouble new bend most teacher range anybody every seat fifteen eventually',
+};
+
+export const userData = {
+	id: 1,
+	name: 'Martin Black',
+	img: 'https://images.unsplash.com/photo-1560856218-0da41ac7c66a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+};
